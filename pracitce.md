@@ -1,3 +1,3 @@
 # The heading
-**contribution guidelines
+**contribution guidelines**
 > oh my god
